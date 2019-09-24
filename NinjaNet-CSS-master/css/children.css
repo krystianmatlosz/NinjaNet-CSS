@@ -1,0 +1,5 @@
+#main-content > p
+/* the sign ">" means that we want to take into consideration only direct children of main-content, not every descendant */
+{
+    color: red;
+}

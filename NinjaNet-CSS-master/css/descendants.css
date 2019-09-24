@@ -1,0 +1,6 @@
+#main-content #sub-content p
+/* We are telling that the first one is the parent and the second (and third) one are  descendants 
+that means : All the P tags within main-content*/
+{
+    color: red;
+}

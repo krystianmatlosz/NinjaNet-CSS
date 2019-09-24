@@ -1,0 +1,7 @@
+p,Span, a, li /* it is called "targeting multiple elements" means that all the tags will have the same rule as below */
+{
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial;
+}

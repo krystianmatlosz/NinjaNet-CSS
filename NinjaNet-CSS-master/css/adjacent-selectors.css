@@ -1,0 +1,5 @@
+#all-articles h2 + p
+/* it means that we are styling every P tag which is located after H2 tag (by the plus symbol) */
+{
+    color: green;
+}

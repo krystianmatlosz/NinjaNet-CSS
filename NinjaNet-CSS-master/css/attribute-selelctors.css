@@ -1,0 +1,33 @@
+span[class~="deck"]
+/* that's an attribute selector and it is referred to only span tags that are in class */
+
+/* the "~" sign means that we want to mention every span tag which contains the word "deck" */
+{
+    color: purple;
+}
+
+div[id]
+{
+    background: grey;
+}
+
+/* 
+a[title="Search engine"]
+{
+    color: red;
+}
+
+*/
+
+
+a[href$="pdf"]
+/* the "$" sign means end in "pdf" */
+{
+    color: green;
+}
+
+a[href^="http"]
+/* the "^" sign means start in "http" */
+{
+    color: pink;
+}

@@ -1,0 +1,25 @@
+/* TARGETING ELEMENTS / TAGS */
+
+h2
+{
+    font-size: 24px;    
+}
+
+#content-header
+/* # means that it is an ID */
+{
+    font-size: 18px;
+    color: red;
+}
+
+span
+{
+    display: block;
+    color: blue;
+}
+
+.deck
+/* . means that it is a class */
+{
+    color: red;
+}
