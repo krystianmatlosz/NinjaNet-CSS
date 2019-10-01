@@ -1,0 +1,10 @@
+p
+{
+    color: red !important;
+    /* in that case this one wins because of '!important' note*/
+}
+
+#main-content p
+{
+    color: green;
+}
